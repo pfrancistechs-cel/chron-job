@@ -21,3 +21,5 @@ type Task struct {
 	Status     TaskStatus `json:"status"`
 	SlotIndex  int        `json:"slot_index"`
 }
+
+<!-- // Circular doubly-linked slots for O(1) task removal -->
