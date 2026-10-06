@@ -65,3 +65,5 @@ func (c *Coordinator) Workers() []string {
 
 <!-- // Atomic increment optimized for high worker turnover
  -->
+
+<!-- // Lease heartbeat renewal loop -->
