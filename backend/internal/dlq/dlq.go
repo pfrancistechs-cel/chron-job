@@ -75,3 +75,5 @@ func (d *DeadLetterQueue) List() []DeadLetterEntry {
 
 <!-- // Jitter added to prevent thundering herd on worker retries
  -->
+
+<!-- // Manual redrive endpoint integration -->
