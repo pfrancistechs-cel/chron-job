@@ -409,3 +409,5 @@ export default function ChronJobDashboard() {
 <!-- /* Spoke hand canvas layer */ -->
 
 <!-- /* Worker lease status table */ -->
+
+<!-- /* DLQ inspector component */ -->
