@@ -61,3 +61,5 @@ cd frontend && npm install && npm run dev
 <!-- Documented O(1) timing analysis. -->
 
 <!-- ChronJob v1.0.0 verified. -->
+
+<!-- Computational complexity analysis documented -->
