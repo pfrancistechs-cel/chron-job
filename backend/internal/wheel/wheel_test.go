@@ -16,3 +16,5 @@ func TestHashedTimingWheelScheduling(t *testing.T) {
 		t.Fatalf("unexpected slot index %d", slot)
 	}
 }
+
+<!-- // Stress test 100k timers -->
