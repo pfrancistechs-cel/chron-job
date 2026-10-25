@@ -77,3 +77,5 @@ func (d *DeadLetterQueue) List() []DeadLetterEntry {
  -->
 
 <!-- // Manual redrive endpoint integration -->
+
+<!-- // Poison pill discard logic -->
