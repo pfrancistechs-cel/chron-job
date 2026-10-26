@@ -67,3 +67,5 @@ func (c *Coordinator) Workers() []string {
  -->
 
 <!-- // Lease heartbeat renewal loop -->
+
+<!-- // Lockless token atomic add -->
