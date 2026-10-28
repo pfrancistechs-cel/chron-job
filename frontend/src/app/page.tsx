@@ -411,3 +411,5 @@ export default function ChronJobDashboard() {
 <!-- /* Worker lease status table */ -->
 
 <!-- /* DLQ inspector component */ -->
+
+<!-- /* Radar sweep styling */ -->
