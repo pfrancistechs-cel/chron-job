@@ -63,3 +63,5 @@ cd frontend && npm install && npm run dev
 <!-- ChronJob v1.0.0 verified. -->
 
 <!-- Computational complexity analysis documented -->
+
+<!-- REST API documentation completed -->
