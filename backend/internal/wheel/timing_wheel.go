@@ -111,3 +111,5 @@ func (tw *TimingWheel) TotalFired() int64 {
 <!-- // Wheel cascade promotion logic -->
 
 <!-- // Striped bucket locks -->
+
+<!-- // Clean worker teardown -->
