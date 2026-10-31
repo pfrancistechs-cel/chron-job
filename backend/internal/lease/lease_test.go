@@ -18,3 +18,5 @@ func TestWorkerLeaseAcquire(t *testing.T) {
 		t.Fatalf("expected lease to be active")
 	}
 }
+
+<!-- // Failover takeover test -->
