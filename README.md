@@ -67,3 +67,5 @@ cd frontend && npm install && npm run dev
 <!-- REST API documentation completed -->
 
 <!-- Benchmark: 250k timer dispatches/sec -->
+
+<!-- ChronJob v1.0.0 release milestone -->
